@@ -1,0 +1,14 @@
+c:\users\benjamin.burt\documents\visual studio 2017\Projects\2d World OpenTK Test\2d World OpenTK Test\bin\Debug\2d World OpenTK Test.exe.config
+c:\users\benjamin.burt\documents\visual studio 2017\Projects\2d World OpenTK Test\2d World OpenTK Test\bin\Debug\2d World OpenTK Test.exe
+c:\users\benjamin.burt\documents\visual studio 2017\Projects\2d World OpenTK Test\2d World OpenTK Test\bin\Debug\2d World OpenTK Test.pdb
+c:\users\benjamin.burt\documents\visual studio 2017\Projects\2d World OpenTK Test\2d World OpenTK Test\bin\Debug\OpenTK.Compatibility.dll
+c:\users\benjamin.burt\documents\visual studio 2017\Projects\2d World OpenTK Test\2d World OpenTK Test\bin\Debug\OpenTK.dll
+c:\users\benjamin.burt\documents\visual studio 2017\Projects\2d World OpenTK Test\2d World OpenTK Test\bin\Debug\OpenTK.GLControl.dll
+c:\users\benjamin.burt\documents\visual studio 2017\Projects\2d World OpenTK Test\2d World OpenTK Test\bin\Debug\OpenTK.pdb
+c:\users\benjamin.burt\documents\visual studio 2017\Projects\2d World OpenTK Test\2d World OpenTK Test\bin\Debug\OpenTK.xml
+c:\users\benjamin.burt\documents\visual studio 2017\Projects\2d World OpenTK Test\2d World OpenTK Test\bin\Debug\OpenTK.dll.config
+c:\users\benjamin.burt\documents\visual studio 2017\Projects\2d World OpenTK Test\2d World OpenTK Test\bin\Debug\OpenTK.Compatibility.dll.config
+c:\users\benjamin.burt\documents\visual studio 2017\Projects\2d World OpenTK Test\2d World OpenTK Test\bin\Debug\OpenTK.GLControl.xml
+c:\users\benjamin.burt\documents\visual studio 2017\Projects\2d World OpenTK Test\2d World OpenTK Test\obj\Debug\2d World OpenTK Test.csprojResolveAssemblyReference.cache
+c:\users\benjamin.burt\documents\visual studio 2017\Projects\2d World OpenTK Test\2d World OpenTK Test\obj\Debug\2d World OpenTK Test.exe
+c:\users\benjamin.burt\documents\visual studio 2017\Projects\2d World OpenTK Test\2d World OpenTK Test\obj\Debug\2d World OpenTK Test.pdb
