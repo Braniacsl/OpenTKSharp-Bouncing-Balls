@@ -1,0 +1,14 @@
+C:\Users\benjamin.burt\Documents\Visual Studio 2017\Projects\2d World OpenTK Test\OpenTKSharp-Bouncing-Balls\2d World OpenTK Test\bin\Release\2d World OpenTK Test.exe.config
+C:\Users\benjamin.burt\Documents\Visual Studio 2017\Projects\2d World OpenTK Test\OpenTKSharp-Bouncing-Balls\2d World OpenTK Test\bin\Release\2d World OpenTK Test.exe
+C:\Users\benjamin.burt\Documents\Visual Studio 2017\Projects\2d World OpenTK Test\OpenTKSharp-Bouncing-Balls\2d World OpenTK Test\bin\Release\2d World OpenTK Test.pdb
+C:\Users\benjamin.burt\Documents\Visual Studio 2017\Projects\2d World OpenTK Test\OpenTKSharp-Bouncing-Balls\2d World OpenTK Test\bin\Release\OpenTK.Compatibility.dll
+C:\Users\benjamin.burt\Documents\Visual Studio 2017\Projects\2d World OpenTK Test\OpenTKSharp-Bouncing-Balls\2d World OpenTK Test\bin\Release\OpenTK.dll
+C:\Users\benjamin.burt\Documents\Visual Studio 2017\Projects\2d World OpenTK Test\OpenTKSharp-Bouncing-Balls\2d World OpenTK Test\bin\Release\OpenTK.GLControl.dll
+C:\Users\benjamin.burt\Documents\Visual Studio 2017\Projects\2d World OpenTK Test\OpenTKSharp-Bouncing-Balls\2d World OpenTK Test\bin\Release\OpenTK.pdb
+C:\Users\benjamin.burt\Documents\Visual Studio 2017\Projects\2d World OpenTK Test\OpenTKSharp-Bouncing-Balls\2d World OpenTK Test\bin\Release\OpenTK.xml
+C:\Users\benjamin.burt\Documents\Visual Studio 2017\Projects\2d World OpenTK Test\OpenTKSharp-Bouncing-Balls\2d World OpenTK Test\bin\Release\OpenTK.dll.config
+C:\Users\benjamin.burt\Documents\Visual Studio 2017\Projects\2d World OpenTK Test\OpenTKSharp-Bouncing-Balls\2d World OpenTK Test\bin\Release\OpenTK.Compatibility.dll.config
+C:\Users\benjamin.burt\Documents\Visual Studio 2017\Projects\2d World OpenTK Test\OpenTKSharp-Bouncing-Balls\2d World OpenTK Test\bin\Release\OpenTK.GLControl.xml
+C:\Users\benjamin.burt\Documents\Visual Studio 2017\Projects\2d World OpenTK Test\OpenTKSharp-Bouncing-Balls\2d World OpenTK Test\obj\Release\2d World OpenTK Test.csprojResolveAssemblyReference.cache
+C:\Users\benjamin.burt\Documents\Visual Studio 2017\Projects\2d World OpenTK Test\OpenTKSharp-Bouncing-Balls\2d World OpenTK Test\obj\Release\2d World OpenTK Test.exe
+C:\Users\benjamin.burt\Documents\Visual Studio 2017\Projects\2d World OpenTK Test\OpenTKSharp-Bouncing-Balls\2d World OpenTK Test\obj\Release\2d World OpenTK Test.pdb
